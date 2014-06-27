@@ -3,6 +3,9 @@
   padding:0px;
 }
 
+body {
+	background: url("spoons.jpg") repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
 #octocat {
   display: block;
   width:384px;
